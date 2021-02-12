@@ -1,0 +1,63 @@
+h1{
+    font-family: 'Handlee', cursive;
+    margin-top: 30px;
+    padding: 5px;
+}
+p{
+    font-family: 'Handlee', cursive;
+}
+
+.caja1{
+    position: relative;
+    bottom: 80px; 
+    left:270px;
+    
+}
+img{ width: 50px;
+     height: 50px;   
+}
+
+.caja2{
+    height: 100px;
+    width: 200px;
+    position: relative;
+            bottom: 100px;
+   
+}
+p{ 
+    margin-top:50px ;
+    width: 200px;
+    height: 70px;
+    padding: 5px;
+    font-size: large;
+}
+.parrafo2{ 
+    margin-top: 50px;
+}
+input{ 
+        font-family: 'Handlee', cursive;
+        box-sizing: border-box;
+        border: none;
+        border-bottom:1px solid black;
+}
+.caja3{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+    height: 100px;
+    width: 100px;
+    font-size: xx-large;
+}
+.boton{
+    font-family: 'Handlee', cursive;
+        box-sizing: border-box;
+        border: none;
+        border-bottom:1px solid black;
+        background: rgb(180, 179, 179);
+}
+.caja4{
+    position: relative;
+    bottom: 100px;
+    left:100px;
+    
+}
