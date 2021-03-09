@@ -1,6 +1,7 @@
-h1{
+.caja{
     font-family: 'Handlee', cursive;
-    margin-top: 30px;
+    margin-top: 0px;
+    margin-right: 180px;
     padding: 5px;
 }
 p{
@@ -10,7 +11,8 @@ p{
 .caja1{
     position: relative;
     bottom: 80px; 
-    left:270px;
+    left:150px;
+    margin-top: 10px;
     
 }
 img{ width: 50px;
@@ -22,6 +24,7 @@ img{ width: 50px;
     width: 200px;
     position: relative;
             bottom: 100px;
+    margin-left: 13px;
    
 }
 p{ 
@@ -43,10 +46,11 @@ input{
 .caja3{
     position: relative;
     bottom: 205px;
-    left: 210px;
+    left: 250px;
     height: 100px;
     width: 100px;
     font-size: xx-large;
+    
 }
 .boton{
     font-family: 'Handlee', cursive;
@@ -58,6 +62,13 @@ input{
 .caja4{
     position: relative;
     bottom: 100px;
-    left:100px;
+    margin: auto;
     
 }
+.container{text-align: center;
+background: white;
+width: 400px;
+height: 400px;
+margin:auto;
+border-radius: 10px;}
+body{background: black;}
